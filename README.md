@@ -1,4 +1,4 @@
-This is TiDE
+This is TiDE  - The Truck IDE for Daimler Truck Developers
 
 Main Eclipse Source available at 
 
